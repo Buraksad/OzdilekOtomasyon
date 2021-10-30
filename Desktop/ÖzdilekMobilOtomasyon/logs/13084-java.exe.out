@@ -1,0 +1,99 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 787milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 787"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 57913"}
+{"logLevel":"info","message":"Listening on port:57913"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.swipe' and 'Base.StepImplementation.swipe'"}
+{"logLevel":"debug","message":"Found Sayfanin en asagisina gelene kadar swipe edilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickSepetim' and 'Base.StepImplementation.clickSepetim'"}
+{"logLevel":"debug","message":"Found Sepetim butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickGeri' and 'Base.StepImplementation.clickGeri'"}
+{"logLevel":"debug","message":"Found geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickKadin' and 'Base.StepImplementation.clickKadin'"}
+{"logLevel":"debug","message":"Found Menuden 'Kadın' Secenegine tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.sonUrun' and 'Base.StepImplementation.sonUrun'"}
+{"logLevel":"debug","message":"Found Ekrandaki son urun icin favoriye ekleme butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickKatagoriler' and 'Base.StepImplementation.clickKatagoriler'"}
+{"logLevel":"debug","message":"Found Katagoriler Sayfasi Acilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.cliclAlisveris' and 'Base.StepImplementation.cliclAlisveris'"}
+{"logLevel":"debug","message":"Found Alisverise basla butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.checkAlisveris' and 'Base.StepImplementation.checkAlisveris'"}
+{"logLevel":"debug","message":"Found Alisveris sayfasinin acildigi dogrulanir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickHesabim' and 'Base.StepImplementation.clickHesabim'"}
+{"logLevel":"debug","message":"Found Hesabim butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.checkGirisYap' and 'Base.StepImplementation.checkGirisYap'"}
+{"logLevel":"debug","message":"Found Giris yapma sayfasinin acildigi kontrol edilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickPantolon' and 'Base.StepImplementation.clickPantolon'"}
+{"logLevel":"debug","message":"Found 'pantolon' kategorisi acilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.checkKatagoriler' and 'Base.StepImplementation.checkKatagoriler'"}
+{"logLevel":"debug","message":"Found Katagoriler Sayfasinin acildigi dogrulanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.checkAnaSayfa' and 'Base.StepImplementation.checkAnaSayfa'"}
+{"logLevel":"debug","message":"Found Uygulamanin acildigi kontrol edilir. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tGiris yapma sayfasinin acildigi kontrol edilir. : public void checkGirisYap()"}
+{"logLevel":"debug","message":"\tgeri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir : public void clickGeri() throws InterruptedException"}
+{"logLevel":"debug","message":"\tSayfanin en asagisina gelene kadar swipe edilir. : public void swipe() throws InterruptedException"}
+{"logLevel":"debug","message":"\tKatagoriler Sayfasinin acildigi dogrulanir : public void checkKatagoriler()"}
+{"logLevel":"debug","message":"\tUygulamanin acildigi kontrol edilir. : public void checkAnaSayfa()"}
+{"logLevel":"debug","message":"\tHesabim butonuna tiklanir : public void clickHesabim()"}
+{"logLevel":"debug","message":"\tEkrandaki son urun icin favoriye ekleme butonuna tiklanir : public void sonUrun() throws InterruptedException"}
+{"logLevel":"debug","message":"\tAlisverise basla butonuna tiklanir : public void cliclAlisveris() throws InterruptedException"}
+{"logLevel":"debug","message":"\tAlisveris sayfasinin acildigi dogrulanir. : public void checkAlisveris()"}
+{"logLevel":"debug","message":"\t'pantolon' kategorisi acilir : public void clickPantolon() throws InterruptedException"}
+{"logLevel":"debug","message":"\tMenuden 'Kadın' Secenegine tiklanir : public void clickKadin()"}
+{"logLevel":"debug","message":"\tSepetim butonuna tiklanir : public void clickSepetim()"}
+{"logLevel":"debug","message":"\tKatagoriler Sayfasi Acilir : public void clickKatagoriler()"}
+TEST BASLIYOR.....
+Tem 25, 2021 4:13:32 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Uygulamanin acildigi kontrol edilir.' using 'class Base.StepImplementation.checkAnaSayfa"}
+[INFO ] 2021-07-25 16:13:35.598 [pool-2-thread-1] BasePage - Check page
+{"logLevel":"debug","message":"Executing 'Alisverise basla butonuna tiklanir' using 'class Base.StepImplementation.cliclAlisveris"}
+[INFO ] 2021-07-25 16:13:35.700 [pool-2-thread-1] BasePage - By.id: com.ozdilek.ozdilekteyim:id/tv_startShoppingStoreElemente tıklanildi
+[INFO ] 2021-07-25 16:13:36.708 [pool-2-thread-1] BasePage - 1saniye beklenildi
+{"logLevel":"debug","message":"Executing 'Alisveris sayfasinin acildigi dogrulanir.' using 'class Base.StepImplementation.checkAlisveris"}
+[INFO ] 2021-07-25 16:13:37.702 [pool-2-thread-1] BasePage - Check page
+{"logLevel":"debug","message":"Executing 'Katagoriler Sayfasi Acilir' using 'class Base.StepImplementation.clickKatagoriler"}
+[INFO ] 2021-07-25 16:13:37.805 [pool-2-thread-1] BasePage - By.id: com.ozdilek.ozdilekteyim:id/nav_categoriesElemente tıklanildi
+{"logLevel":"debug","message":"Executing 'Katagoriler Sayfasinin acildigi dogrulanir' using 'class Base.StepImplementation.checkKatagoriler"}
+[INFO ] 2021-07-25 16:13:39.453 [pool-2-thread-1] BasePage - Check page
+{"logLevel":"debug","message":"Executing 'Menuden 'Kadın' Secenegine tiklanir' using 'class Base.StepImplementation.clickKadin"}
+[INFO ] 2021-07-25 16:13:39.583 [pool-2-thread-1] BasePage - By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elemente tıklanildi
+{"logLevel":"debug","message":"Executing ''pantolon' kategorisi acilir' using 'class Base.StepImplementation.clickPantolon"}
+[INFO ] 2021-07-25 16:13:40.379 [pool-2-thread-1] BasePage - By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[4]Elemente tıklanildi
+[INFO ] 2021-07-25 16:13:42.390 [pool-2-thread-1] BasePage - 2saniye beklenildi
+{"logLevel":"debug","message":"Executing 'Sayfanin en asagisina gelene kadar swipe edilir.' using 'class Base.StepImplementation.swipe"}
+[INFO ] 2021-07-25 16:15:41.109 [pool-2-thread-1] BasePage - swipe islemi tamamlandi
+[INFO ] 2021-07-25 16:15:42.115 [pool-2-thread-1] BasePage - 1saniye beklenildi
+{"logLevel":"debug","message":"Executing 'Ekrandaki son urun icin favoriye ekleme butonuna tiklanir' using 'class Base.StepImplementation.sonUrun"}
+[INFO ] 2021-07-25 16:15:42.256 [pool-2-thread-1] BasePage - By.xpath: //*[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerView']/android.widget.FrameLayout[last()]/android.view.ViewGroup/android.widget.ImageView[last()]Elemente tıklanildi
+[INFO ] 2021-07-25 16:15:43.266 [pool-2-thread-1] BasePage - 1saniye beklenildi
+{"logLevel":"debug","message":"Executing 'Giris yapma sayfasinin acildigi kontrol edilir.' using 'class Base.StepImplementation.checkGirisYap"}
+[INFO ] 2021-07-25 16:15:43.340 [pool-2-thread-1] BasePage - Check page
+{"logLevel":"debug","message":"Executing 'geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir' using 'class Base.StepImplementation.clickGeri"}
+[INFO ] 2021-07-25 16:15:43.408 [pool-2-thread-1] BasePage - By.id: com.ozdilek.ozdilekteyim:id/ivBackElemente tıklanildi
+[INFO ] 2021-07-25 16:15:45.410 [pool-2-thread-1] BasePage - 2saniye beklenildi
+[INFO ] 2021-07-25 16:15:45.529 [pool-2-thread-1] BasePage - Check page
+{"logLevel":"debug","message":"Executing 'Hesabim butonuna tiklanir' using 'class Base.StepImplementation.clickHesabim"}
+[INFO ] 2021-07-25 16:15:45.613 [pool-2-thread-1] BasePage - By.id: com.ozdilek.ozdilekteyim:id/nav_accountElemente tıklanildi
+{"logLevel":"debug","message":"Executing 'Giris yapma sayfasinin acildigi kontrol edilir.' using 'class Base.StepImplementation.checkGirisYap"}
+[INFO ] 2021-07-25 16:15:46.275 [pool-2-thread-1] BasePage - Check page
+{"logLevel":"debug","message":"Executing 'geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir' using 'class Base.StepImplementation.clickGeri"}
+[INFO ] 2021-07-25 16:15:46.332 [pool-2-thread-1] BasePage - By.id: com.ozdilek.ozdilekteyim:id/ivBackElemente tıklanildi
+[INFO ] 2021-07-25 16:15:48.345 [pool-2-thread-1] BasePage - 2saniye beklenildi
+[INFO ] 2021-07-25 16:15:48.449 [pool-2-thread-1] BasePage - Check page
+{"logLevel":"debug","message":"Executing 'Sepetim butonuna tiklanir' using 'class Base.StepImplementation.clickSepetim"}
+[INFO ] 2021-07-25 16:15:48.532 [pool-2-thread-1] BasePage - By.id: com.ozdilek.ozdilekteyim:id/nav_cartElemente tıklanildi
+{"logLevel":"debug","message":"Executing 'Giris yapma sayfasinin acildigi kontrol edilir.' using 'class Base.StepImplementation.checkGirisYap"}
+[INFO ] 2021-07-25 16:15:49.214 [pool-2-thread-1] BasePage - Check page
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

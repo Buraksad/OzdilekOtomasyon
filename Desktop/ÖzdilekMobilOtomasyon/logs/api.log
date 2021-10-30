@@ -1,0 +1,911 @@
+24-07-2021 17:27:50.844 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+24-07-2021 17:27:50.845 [Gauge] [DEBUG] Found 1 files
+24-07-2021 17:27:50.846 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-07-2021 17:27:50.856 [Gauge] [INFO] Initializing specs cache with 1 specs
+24-07-2021 17:27:50.856 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 17:27:50.856 [Gauge] [INFO] Initializing steps cache with 1 steps
+24-07-2021 17:27:50.856 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57260
+24-07-2021 17:27:51.257 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+24-07-2021 17:27:51.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+24-07-2021 17:27:51.640 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+24-07-2021 17:27:51.641 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+24-07-2021 18:05:04.688 [Gauge] [INFO] Closing connection [127.0.0.1:57261] cause: read tcp 127.0.0.1:57260->127.0.0.1:57261: wsarecv: An existing connection was forcibly closed by the remote host.
+24-07-2021 18:05:05.133 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 1108 has terminated.
+24-07-2021 18:28:13.167 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+24-07-2021 18:28:13.168 [Gauge] [DEBUG] Found 1 files
+24-07-2021 18:28:13.170 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-07-2021 18:28:13.171 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 18:28:13.173 [Gauge] [INFO] Initializing specs cache with 1 specs
+24-07-2021 18:28:13.173 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 18:28:13.173 [Gauge] [INFO] Initializing steps cache with 1 steps
+24-07-2021 18:28:13.173 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57550
+24-07-2021 18:28:35.381 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+24-07-2021 18:28:35.385 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+24-07-2021 18:28:35.433 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+24-07-2021 18:28:35.433 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+24-07-2021 18:35:40.385 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+24-07-2021 18:35:40.385 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+24-07-2021 18:36:18.591 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"a" > 
+24-07-2021 18:36:18.591 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"a" parameterizedStepValue:"a" > > 
+24-07-2021 18:36:18.602 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+24-07-2021 18:36:18.602 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+24-07-2021 18:36:18.606 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+24-07-2021 18:36:18.606 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+24-07-2021 18:39:01.288 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 18:39:01.298 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 18:40:37.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfas\304\261 Acilir" > 
+24-07-2021 18:40:37.203 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfas\304\261 Acilir" parameterizedStepValue:"Katagoriler Sayfas\304\261 Acilir" > > 
+24-07-2021 18:41:47.028 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+24-07-2021 18:41:47.028 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+24-07-2021 18:41:47.046 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+24-07-2021 18:41:47.046 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+24-07-2021 18:41:59.336 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 18:41:59.338 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 18:54:56.606 [Gauge] [INFO] Closing connection [127.0.0.1:57551] cause: read tcp 127.0.0.1:57550->127.0.0.1:57551: wsarecv: An existing connection was forcibly closed by the remote host.
+24-07-2021 18:54:56.828 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 8092 has terminated.
+24-07-2021 18:58:52.797 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+24-07-2021 18:58:52.799 [Gauge] [DEBUG] Found 1 files
+24-07-2021 18:58:52.801 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-07-2021 18:58:52.804 [Gauge] [INFO] Initializing specs cache with 1 specs
+24-07-2021 18:58:52.804 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 18:58:52.804 [Gauge] [INFO] Initializing steps cache with 1 steps
+24-07-2021 18:58:52.804 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56021
+24-07-2021 18:59:09.433 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+24-07-2021 18:59:09.435 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+24-07-2021 18:59:09.490 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+24-07-2021 18:59:09.492 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+24-07-2021 18:59:09.516 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+24-07-2021 18:59:09.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+24-07-2021 18:59:09.554 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfas\304\261 Acilir" > 
+24-07-2021 18:59:09.562 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfas\304\261 Acilir" parameterizedStepValue:"Katagoriler Sayfas\304\261 Acilir" > > 
+24-07-2021 18:59:34.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+24-07-2021 18:59:34.355 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+24-07-2021 19:00:21.000 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler  Acilir" > 
+24-07-2021 19:00:21.000 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler  Acilir" parameterizedStepValue:"Katagoriler  Acilir" > > 
+24-07-2021 19:00:21.174 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler i Acilir" > 
+24-07-2021 19:00:21.174 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler i Acilir" parameterizedStepValue:"Katagoriler i Acilir" > > 
+24-07-2021 19:00:21.270 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+24-07-2021 19:00:21.270 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfas\304\261 Acilir" parameterizedStepValue:"Katagoriler Sayfas\304\261 Acilir" > > 
+24-07-2021 19:00:21.273 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+24-07-2021 19:00:21.273 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+24-07-2021 19:00:21.283 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+24-07-2021 19:00:21.283 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfas\304\261 Acilir" parameterizedStepValue:"Katagoriler Sayfas\304\261 Acilir" > > 
+24-07-2021 19:00:21.283 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+24-07-2021 19:00:21.283 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+24-07-2021 19:00:25.016 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfas Acilir" > 
+24-07-2021 19:00:25.016 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfas Acilir" parameterizedStepValue:"Katagoriler Sayfas Acilir" > > 
+24-07-2021 19:00:25.565 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+24-07-2021 19:00:25.565 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfas\304\261 Acilir" parameterizedStepValue:"Katagoriler Sayfas\304\261 Acilir" > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+24-07-2021 19:00:25.565 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+24-07-2021 19:00:25.565 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+24-07-2021 19:00:56.846 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 19:00:56.860 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 19:01:10.236 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+24-07-2021 19:01:10.236 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+24-07-2021 19:01:49.736 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 19:01:49.738 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 19:01:53.348 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.348 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.360 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.390 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.390 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.391 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.391 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.416 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.416 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.417 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.417 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.676 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.676 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.679 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.679 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.680 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.680 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.716 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.716 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.716 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.716 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.753 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.753 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:53.754 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+24-07-2021 19:01:53.754 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+24-07-2021 19:01:54.281 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"K" > 
+24-07-2021 19:01:54.281 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"K" parameterizedStepValue:"K" > > 
+24-07-2021 19:01:54.289 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+24-07-2021 19:01:54.289 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+24-07-2021 19:01:54.290 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+24-07-2021 19:01:54.290 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+24-07-2021 19:02:01.386 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 19:02:01.388 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 19:04:45.805 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+24-07-2021 19:04:45.805 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+24-07-2021 19:08:16.229 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+24-07-2021 19:08:16.229 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+24-07-2021 19:08:29.920 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"P" > 
+24-07-2021 19:08:29.920 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"P" parameterizedStepValue:"P" > > 
+24-07-2021 19:08:29.939 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+24-07-2021 19:08:29.939 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+24-07-2021 19:08:29.952 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+24-07-2021 19:08:29.952 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+24-07-2021 19:08:36.911 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 19:08:36.928 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 23:45:23.790 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+24-07-2021 23:45:23.792 [Gauge] [DEBUG] Found 1 files
+24-07-2021 23:45:23.794 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-07-2021 23:45:23.795 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 23:46:39.329 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+24-07-2021 23:46:39.329 [Gauge] [DEBUG] Found 1 files
+24-07-2021 23:46:39.330 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-07-2021 23:46:39.330 [Gauge] [INFO] Initializing specs cache with 1 specs
+24-07-2021 23:46:39.330 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+24-07-2021 23:46:39.330 [Gauge] [INFO] Initializing steps cache with 1 steps
+24-07-2021 23:46:39.330 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65123
+24-07-2021 23:46:40.221 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+24-07-2021 23:46:40.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+24-07-2021 23:46:40.235 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+24-07-2021 23:46:40.235 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+24-07-2021 23:46:40.236 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+24-07-2021 23:46:40.236 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+24-07-2021 23:46:40.237 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+24-07-2021 23:46:40.237 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+24-07-2021 23:46:40.238 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+24-07-2021 23:46:40.238 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+24-07-2021 23:46:40.238 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+24-07-2021 23:46:40.238 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+24-07-2021 23:46:40.239 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+24-07-2021 23:46:40.239 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+25-07-2021 00:01:15.706 [Gauge] [INFO] Closing connection [127.0.0.1:65124] cause: read tcp 127.0.0.1:65123->127.0.0.1:65124: wsarecv: An existing connection was forcibly closed by the remote host.
+25-07-2021 00:01:15.877 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 9688 has terminated.
+25-07-2021 09:30:25.371 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+25-07-2021 09:30:25.371 [Gauge] [DEBUG] Found 1 files
+25-07-2021 09:30:25.374 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-07-2021 09:30:25.374 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 09:30:25.377 [Gauge] [INFO] Initializing specs cache with 1 specs
+25-07-2021 09:30:25.377 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 09:30:25.377 [Gauge] [INFO] Initializing steps cache with 1 steps
+25-07-2021 09:30:25.377 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64087
+25-07-2021 09:30:26.226 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+25-07-2021 09:30:26.227 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+25-07-2021 09:30:26.239 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+25-07-2021 09:30:26.239 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+25-07-2021 09:30:26.240 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+25-07-2021 09:30:26.240 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+25-07-2021 09:30:26.241 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+25-07-2021 09:30:26.241 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+25-07-2021 09:30:26.242 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+25-07-2021 09:30:26.242 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+25-07-2021 09:30:26.244 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+25-07-2021 09:30:26.244 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+25-07-2021 09:30:26.244 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+25-07-2021 09:30:26.245 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+25-07-2021 09:37:50.754 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir*'pantolon' kategorisi acilir" > 
+25-07-2021 09:37:50.755 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir*'pantolon' kategorisi acilir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir*'pantolon' kategorisi acilir" > > 
+25-07-2021 09:37:53.001 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 09:37:53.017 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 09:37:56.190 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.190 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.223 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.223 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.223 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.223 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.252 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.252 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.498 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.498 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.502 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.541 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.541 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.542 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.542 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.609 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.609 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:56.609 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 09:37:56.610 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 09:37:57.197 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"k" > 
+25-07-2021 09:37:57.197 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"k" parameterizedStepValue:"k" > > 
+25-07-2021 09:37:57.207 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 09:37:57.207 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+25-07-2021 09:37:57.211 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 09:37:57.211 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 09:37:58.081 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ka" > 
+25-07-2021 09:37:58.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ka" parameterizedStepValue:"ka" > > 
+25-07-2021 09:38:03.437 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 09:38:03.460 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 10:05:21.941 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"kayd\304\261r" > 
+25-07-2021 10:05:21.950 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"kayd\304\261r" parameterizedStepValue:"kayd\304\261r" > > 
+25-07-2021 11:28:41.004 [Gauge] [INFO] Closing connection [127.0.0.1:64088] cause: read tcp 127.0.0.1:64087->127.0.0.1:64088: wsarecv: An existing connection was forcibly closed by the remote host.
+25-07-2021 11:28:41.263 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 15728 has terminated.
+25-07-2021 12:10:50.547 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+25-07-2021 12:10:50.547 [Gauge] [DEBUG] Found 1 files
+25-07-2021 12:10:50.552 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-07-2021 12:10:50.561 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 12:11:52.319 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+25-07-2021 12:11:52.321 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-07-2021 12:11:52.324 [Gauge] [DEBUG] Found 1 files
+25-07-2021 12:11:52.326 [Gauge] [INFO] Initializing specs cache with 1 specs
+25-07-2021 12:11:52.326 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 12:11:52.326 [Gauge] [INFO] Initializing steps cache with 1 steps
+25-07-2021 12:11:52.326 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61512
+25-07-2021 12:11:53.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+25-07-2021 12:11:53.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+25-07-2021 12:11:53.182 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+25-07-2021 12:11:53.182 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+25-07-2021 12:11:53.183 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+25-07-2021 12:11:53.183 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+25-07-2021 12:11:53.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+25-07-2021 12:11:53.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+25-07-2021 12:11:53.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+25-07-2021 12:11:53.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+25-07-2021 12:11:53.187 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+25-07-2021 12:11:53.187 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+25-07-2021 12:11:53.188 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+25-07-2021 12:11:53.188 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+25-07-2021 12:34:58.517 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"swipe" > 
+25-07-2021 12:34:58.518 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"swipe" parameterizedStepValue:"swipe" > > 
+25-07-2021 12:44:03.472 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+25-07-2021 12:44:03.473 [Gauge] [DEBUG] Found 1 files
+25-07-2021 12:44:03.476 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-07-2021 12:44:03.477 [Gauge] [INFO] Initializing specs cache with 1 specs
+25-07-2021 12:44:03.477 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 12:44:03.477 [Gauge] [INFO] Initializing steps cache with 1 steps
+25-07-2021 12:44:03.477 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49359
+25-07-2021 13:08:08.875 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+25-07-2021 13:08:08.877 [Gauge] [DEBUG] Found 1 files
+25-07-2021 13:08:08.877 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-07-2021 13:08:08.878 [Gauge] [INFO] Initializing specs cache with 1 specs
+25-07-2021 13:08:08.878 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 13:08:08.879 [Gauge] [INFO] Initializing steps cache with 1 steps
+25-07-2021 13:08:08.879 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56443
+25-07-2021 13:09:18.641 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+25-07-2021 13:09:18.642 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+25-07-2021 13:09:18.729 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+25-07-2021 13:09:18.730 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+25-07-2021 13:09:18.771 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+25-07-2021 13:09:18.771 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+25-07-2021 13:09:18.778 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+25-07-2021 13:09:18.778 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+25-07-2021 13:09:18.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+25-07-2021 13:09:18.789 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+25-07-2021 13:09:18.822 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+25-07-2021 13:09:18.822 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+25-07-2021 13:09:18.852 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+25-07-2021 13:09:18.852 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+25-07-2021 13:09:19.004 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"swipe" > 
+25-07-2021 13:09:19.004 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"swipe" parameterizedStepValue:"swipe" > > 
+25-07-2021 13:13:39.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"w" > 
+25-07-2021 13:13:39.600 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"w" parameterizedStepValue:"w" > > 
+25-07-2021 13:13:39.615 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 13:13:39.615 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+25-07-2021 13:13:39.619 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 13:13:39.619 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 13:14:05.163 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 13:14:05.163 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 13:14:05.183 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 14:45:49.855 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"s" > 
+25-07-2021 14:45:49.858 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"s" parameterizedStepValue:"s" > > 
+25-07-2021 14:45:51.246 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"S" > 
+25-07-2021 14:45:51.250 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"S" parameterizedStepValue:"S" > > 
+25-07-2021 14:45:51.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sa" > 
+25-07-2021 14:45:51.649 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sa" parameterizedStepValue:"Sa" > > 
+25-07-2021 14:45:52.040 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say" > 
+25-07-2021 14:45:52.040 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say" parameterizedStepValue:"Say" > > 
+25-07-2021 14:45:52.806 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfan\304\261" > 
+25-07-2021 14:45:52.808 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfan\304\261" parameterizedStepValue:"Sayfan\304\261" > > 
+25-07-2021 14:45:53.962 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin " > 
+25-07-2021 14:45:53.962 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin" parameterizedStepValue:"Sayfanin" > > 
+25-07-2021 14:45:54.820 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en" > 
+25-07-2021 14:45:54.820 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en" parameterizedStepValue:"Sayfanin en" > > 
+25-07-2021 14:45:56.824 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en sa" > 
+25-07-2021 14:45:56.824 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en sa" parameterizedStepValue:"Sayfanin en sa" > > 
+25-07-2021 14:45:58.288 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asa" > 
+25-07-2021 14:45:58.288 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asa" parameterizedStepValue:"Sayfanin en asa" > > 
+25-07-2021 14:45:59.030 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asag" > 
+25-07-2021 14:45:59.030 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asag" parameterizedStepValue:"Sayfanin en asag" > > 
+25-07-2021 14:46:00.619 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina " > 
+25-07-2021 14:46:00.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina" parameterizedStepValue:"Sayfanin en asagisina" > > 
+25-07-2021 14:46:03.276 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina gelene kadar" > 
+25-07-2021 14:46:03.276 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina gelene kadar" parameterizedStepValue:"Sayfanin en asagisina gelene kadar" > > 
+25-07-2021 14:46:03.604 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina gelene kadar " > 
+25-07-2021 14:46:03.604 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina gelene kadar" parameterizedStepValue:"Sayfanin en asagisina gelene kadar" > > 
+25-07-2021 14:46:04.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina gelene kadar w" > 
+25-07-2021 14:46:04.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina gelene kadar w" parameterizedStepValue:"Sayfanin en asagisina gelene kadar w" > > 
+25-07-2021 14:46:05.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina gelene kadar swipe" > 
+25-07-2021 14:46:05.601 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina gelene kadar swipe" parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe" > > 
+25-07-2021 14:46:08.351 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina gelene kadar swipe edilir" > 
+25-07-2021 14:46:08.351 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir" parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir" > > 
+25-07-2021 14:46:09.312 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina gelene kadar swipe edilir." > 
+25-07-2021 14:46:09.312 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > > 
+25-07-2021 15:02:25.408 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > 
+25-07-2021 15:02:25.411 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > > 
+25-07-2021 15:02:31.870 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:02:31.872 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"swipe" parameterizedStepValue:"swipe" > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+25-07-2021 15:02:31.878 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:02:31.878 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:02:49.139 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:02:49.180 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:02:49.180 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:03:33.032 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:03:33.033 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:03:33.428 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:03:33.429 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+25-07-2021 15:03:33.429 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:03:33.429 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:03:36.220 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"SO" > 
+25-07-2021 15:03:36.220 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"SO" parameterizedStepValue:"SO" > > 
+25-07-2021 15:03:41.132 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:03:41.142 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:16:27.072 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giris yapma sayfasinin acildigi kontrol edilir." > 
+25-07-2021 15:16:27.078 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > > 
+25-07-2021 15:21:44.440 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:21:44.495 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:21:45.465 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.465 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.471 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.471 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.529 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.529 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.530 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.530 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.551 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.551 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.624 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.625 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.627 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.627 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.650 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.650 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.650 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.672 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.672 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.692 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.692 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.693 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.693 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.933 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.933 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:45.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:45.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"g" > 
+25-07-2021 15:21:45.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"g" parameterizedStepValue:"g" > > 
+25-07-2021 15:21:45.980 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:21:45.980 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > > 
+25-07-2021 15:21:45.981 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:21:45.981 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:21:46.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:46.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:46.506 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:46.506 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:46.528 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:46.530 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:46.531 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:46.531 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:46.558 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:46.558 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:46.558 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:46.559 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:46.581 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:46.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:46.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:21:46.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:21:46.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"G" > 
+25-07-2021 15:21:46.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"G" parameterizedStepValue:"G" > > 
+25-07-2021 15:21:46.795 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:21:46.795 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+25-07-2021 15:21:46.795 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:21:46.795 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:21:47.417 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"G\304\260" > 
+25-07-2021 15:21:47.417 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"G\304\260" parameterizedStepValue:"G\304\260" > > 
+25-07-2021 15:21:47.793 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"G\304\260R" > 
+25-07-2021 15:21:47.793 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"G\304\260R" parameterizedStepValue:"G\304\260R" > > 
+25-07-2021 15:21:48.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Gi" > 
+25-07-2021 15:21:48.359 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Gi" parameterizedStepValue:"Gi" > > 
+25-07-2021 15:21:48.364 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:21:48.365 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+25-07-2021 15:21:48.365 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:21:48.365 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:21:48.870 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Gir" > 
+25-07-2021 15:21:48.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Gir" parameterizedStepValue:"Gir" > > 
+25-07-2021 15:22:06.303 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna tiklanir ve kampanyalar sayfasinin tekrar acildigi kontrol edilir" > 
+25-07-2021 15:22:06.303 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna tiklanir ve kampanyalar sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve kampanyalar sayfasinin tekrar acildigi kontrol edilir" > > 
+25-07-2021 15:22:20.130 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:22:20.149 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:25:05.151 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna tiklanir ve kata sayfasinin tekrar acildigi kontrol edilir" > 
+25-07-2021 15:25:05.151 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna tiklanir ve kata sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve kata sayfasinin tekrar acildigi kontrol edilir" > > 
+25-07-2021 15:25:07.999 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna tiklanir ve katogoriler sayfasinin tekrar acildigi kontrol edilir" > 
+25-07-2021 15:25:07.999 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna tiklanir ve katogoriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogoriler sayfasinin tekrar acildigi kontrol edilir" > > 
+25-07-2021 15:25:15.675 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna tiklanir ve katogriler sayfasinin tekrar acildigi kontrol edilir" > 
+25-07-2021 15:25:15.676 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna tiklanir ve katogriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogriler sayfasinin tekrar acildigi kontrol edilir" > > 
+25-07-2021 15:25:16.247 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > 
+25-07-2021 15:25:16.247 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > > 
+25-07-2021 15:27:08.259 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesabim butonuna tiklanir" > 
+25-07-2021 15:27:08.262 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > > 
+25-07-2021 15:27:26.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:27:26.250 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:27:29.345 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:27:29.345 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+25-07-2021 15:27:29.346 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:27:29.346 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:27:29.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"GE" > 
+25-07-2021 15:27:29.571 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"GE" parameterizedStepValue:"GE" > > 
+25-07-2021 15:27:33.166 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:27:33.166 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:27:34.521 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"H" > 
+25-07-2021 15:27:34.522 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"H" parameterizedStepValue:"H" > > 
+25-07-2021 15:27:34.527 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:27:34.527 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > > 
+25-07-2021 15:27:34.528 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:27:34.528 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:27:38.223 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:27:38.223 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+25-07-2021 15:27:38.223 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:27:38.223 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:27:54.445 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:27:54.452 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > > 
+25-07-2021 15:27:54.453 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:27:54.453 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:28:00.127 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:28:00.127 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > > 
+25-07-2021 15:28:00.127 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:28:00.127 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:28:07.001 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:28:07.067 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:29:36.468 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepetim butonuna tiklanir" > 
+25-07-2021 15:29:36.470 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepetim butonuna tiklanir" parameterizedStepValue:"Sepetim butonuna tiklanir" > > 
+25-07-2021 15:29:58.718 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:29:58.718 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+25-07-2021 15:29:58.719 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:29:58.719 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:29:59.458 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:29:59.458 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > > 
+25-07-2021 15:29:59.458 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:29:59.458 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:30:00.166 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"SE" > 
+25-07-2021 15:30:00.166 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"SE" parameterizedStepValue:"SE" > > 
+25-07-2021 15:30:01.260 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:30:01.260 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:30:01.801 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:30:01.801 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > allSteps:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+25-07-2021 15:30:01.801 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:30:01.801 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:30:02.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Se" > 
+25-07-2021 15:30:02.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Se" parameterizedStepValue:"Se" > > 
+25-07-2021 15:30:03.181 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:30:03.181 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+25-07-2021 15:30:03.192 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:30:03.192 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:30:03.326 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sep" > 
+25-07-2021 15:30:03.326 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sep" parameterizedStepValue:"Sep" > > 
+25-07-2021 15:30:04.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepe" > 
+25-07-2021 15:30:04.216 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepe" parameterizedStepValue:"Sepe" > > 
+25-07-2021 15:30:04.222 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:30:04.222 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > > 
+25-07-2021 15:30:04.222 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:30:04.222 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:30:06.834 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+25-07-2021 15:30:06.834 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+25-07-2021 15:30:07.605 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+25-07-2021 15:30:07.605 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > allSteps:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > allSteps:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > allSteps:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > allSteps:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > allSteps:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > allSteps:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > allSteps:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > allSteps:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > allSteps:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > allSteps:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > allSteps:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > > 
+25-07-2021 15:30:07.605 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+25-07-2021 15:30:07.605 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+25-07-2021 15:30:14.353 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 15:30:14.374 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 16:01:59.432 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 16:01:59.463 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 16:02:49.797 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 16:02:49.808 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 17:35:17.747 [Gauge] [INFO] Closing connection [127.0.0.1:56446] cause: read tcp 127.0.0.1:56443->127.0.0.1:56446: wsarecv: An existing connection was forcibly closed by the remote host.
+25-07-2021 17:35:18.089 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 20252 has terminated.
+25-07-2021 18:17:44.113 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+25-07-2021 18:17:44.116 [Gauge] [DEBUG] Found 1 files
+25-07-2021 18:17:44.175 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-07-2021 18:17:44.176 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 18:17:44.177 [Gauge] [INFO] Initializing specs cache with 1 specs
+25-07-2021 18:17:44.177 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 18:17:44.177 [Gauge] [INFO] Initializing steps cache with 1 steps
+25-07-2021 18:17:44.177 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63964
+25-07-2021 18:17:55.613 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+25-07-2021 18:17:55.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+25-07-2021 18:17:55.826 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+25-07-2021 18:17:55.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+25-07-2021 18:17:55.830 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+25-07-2021 18:17:55.830 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+25-07-2021 18:17:55.833 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+25-07-2021 18:17:55.833 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+25-07-2021 18:17:55.834 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+25-07-2021 18:17:55.835 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+25-07-2021 18:17:55.844 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+25-07-2021 18:17:55.844 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+25-07-2021 18:17:55.849 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+25-07-2021 18:17:55.849 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+25-07-2021 18:17:55.852 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina gelene kadar swipe edilir." > 
+25-07-2021 18:17:55.852 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > > 
+25-07-2021 18:17:55.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > 
+25-07-2021 18:17:55.860 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > > 
+25-07-2021 18:17:55.863 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giris yapma sayfasinin acildigi kontrol edilir." > 
+25-07-2021 18:17:55.863 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > > 
+25-07-2021 18:17:55.866 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > 
+25-07-2021 18:17:55.866 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > > 
+25-07-2021 18:17:55.871 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesabim butonuna tiklanir" > 
+25-07-2021 18:17:55.872 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > > 
+25-07-2021 18:17:55.881 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepetim butonuna tiklanir" > 
+25-07-2021 18:17:55.881 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepetim butonuna tiklanir" parameterizedStepValue:"Sepetim butonuna tiklanir" > > 
+25-07-2021 20:29:27.199 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs
+25-07-2021 20:29:27.199 [Gauge] [DEBUG] Found 1 files
+25-07-2021 20:29:27.203 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-07-2021 20:29:27.203 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 20:29:27.204 [Gauge] [INFO] Initializing specs cache with 1 specs
+25-07-2021 20:29:27.204 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Testinium Dersler\OzdilekMobilOtomasyon\OzdilekMobilOtomasyon\specs\example.spec
+25-07-2021 20:29:27.204 [Gauge] [INFO] Initializing steps cache with 1 steps
+25-07-2021 20:29:27.204 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62245
+30-10-2021 14:07:27.688 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\OzdilekMobil\specs
+30-10-2021 14:07:27.734 [Gauge] [DEBUG] Found 1 files
+30-10-2021 14:07:27.739 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-10-2021 14:07:27.753 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-10-2021 14:07:27.753 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:07:27.753 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-10-2021 14:07:27.754 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57392
+30-10-2021 14:07:44.434 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+30-10-2021 14:07:44.541 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+30-10-2021 14:07:44.874 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+30-10-2021 14:07:44.875 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+30-10-2021 14:07:44.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+30-10-2021 14:07:44.879 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+30-10-2021 14:07:44.885 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+30-10-2021 14:07:44.887 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+30-10-2021 14:07:44.894 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+30-10-2021 14:07:44.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+30-10-2021 14:07:44.904 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+30-10-2021 14:07:44.911 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+30-10-2021 14:07:44.917 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+30-10-2021 14:07:44.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+30-10-2021 14:07:44.924 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfanin en asagisina gelene kadar swipe edilir." > 
+30-10-2021 14:07:44.924 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfanin en asagisina gelene kadar swipe edilir." parameterizedStepValue:"Sayfanin en asagisina gelene kadar swipe edilir." > > 
+30-10-2021 14:07:44.928 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Sayfa Scroll Edilir" > 
+30-10-2021 14:07:44.930 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfa Scroll Edilir" parameterizedStepValue:"Sayfa Scroll Edilir" > > 
+30-10-2021 14:07:44.931 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Secilen \303\274r\303\274n favorilere eklenir " > 
+30-10-2021 14:07:44.932 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n favorilere eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n favorilere eklenir" > > 
+30-10-2021 14:07:44.932 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giris yapma sayfasinin acildigi kontrol edilir." > 
+30-10-2021 14:07:44.932 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > > 
+30-10-2021 14:07:44.933 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici adi girilir." > 
+30-10-2021 14:07:44.933 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici adi girilir." parameterizedStepValue:"Kullanici adi girilir." > > 
+30-10-2021 14:07:44.934 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sifre girilir" > 
+30-10-2021 14:07:44.934 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sifre girilir" parameterizedStepValue:"Sifre girilir" > > 
+30-10-2021 14:07:44.935 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna 2 kez tiklanir " > 
+30-10-2021 14:07:44.935 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna 2 kez tiklanir" parameterizedStepValue:"geri butonuna 2 kez tiklanir" > > 
+30-10-2021 14:07:44.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Secilen \303\274r\303\274n sepete eklenir " > 
+30-10-2021 14:07:44.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n sepete eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n sepete eklenir" > > 
+30-10-2021 14:07:44.939 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepetim butonuna tiklanir" > 
+30-10-2021 14:07:44.939 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepetim butonuna tiklanir" parameterizedStepValue:"Sepetim butonuna tiklanir" > > 
+30-10-2021 14:07:45.329 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > 
+30-10-2021 14:07:45.330 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" parameterizedStepValue:"Ekrandaki son urun icin favoriye ekleme butonuna tiklanir" > > 
+30-10-2021 14:07:45.591 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > 
+30-10-2021 14:07:45.591 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" parameterizedStepValue:"geri butonuna tiklanir ve katogiriler sayfasinin tekrar acildigi kontrol edilir" > > 
+30-10-2021 14:07:45.735 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesabim butonuna tiklanir" > 
+30-10-2021 14:07:45.738 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir" > > 
+30-10-2021 14:08:23.747 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:08:23.830 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:09:32.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna 2 kez tiklanir" > 
+30-10-2021 14:09:32.812 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna 2 kez tiklanir" parameterizedStepValue:"geri butonuna 2 kez tiklanir" > > 
+30-10-2021 14:09:56.898 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Secilen \303\274r\303\274n sepete eklenir" > 
+30-10-2021 14:09:56.910 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n sepete eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n sepete eklenir" > > 
+30-10-2021 14:10:31.790 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:10:31.870 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:10:33.306 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.307 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.333 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.333 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.423 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.423 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.424 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.617 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.748 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.748 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.748 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.748 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.843 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.844 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.844 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.844 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:33.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:33.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.030 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.030 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.303 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.303 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.304 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.304 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.482 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.483 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.485 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.485 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.571 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.660 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.661 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.661 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.759 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:34.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:34.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:36.424 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:10:36.427 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:10:37.613 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:37.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:37.647 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:37.647 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:37.768 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:37.768 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:37.769 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:37.769 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:37.848 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:37.848 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:37.850 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:37.850 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:37.850 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:37.850 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:37.928 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:37.928 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:38.029 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:38.029 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:38.030 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:38.030 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:38.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:38.070 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:38.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:38.082 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:38.159 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:38.160 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:38.160 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:38.160 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.115 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.115 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.120 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.120 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.122 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.122 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.124 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.124 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.125 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.125 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.127 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.144 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.144 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.160 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.160 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.163 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.163 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.172 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.175 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.180 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.180 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.182 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.182 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:40.183 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:40.183 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.506 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.506 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.508 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.508 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.587 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.587 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.588 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.640 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.640 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.643 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.643 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.643 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.643 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.785 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.785 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.786 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.786 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.979 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.979 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:43.980 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:43.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:44.110 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:44.110 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:44.110 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:44.111 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:44.808 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:44.809 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:44.902 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:44.902 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:44.981 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:44.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:44.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:44.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:45.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:45.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:45.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:45.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:45.114 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:45.114 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:10:45.114 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:10:45.114 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:11:15.119 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:11:15.236 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:11:42.920 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:11:42.993 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:15:28.263 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" > 
+30-10-2021 14:15:28.275 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" parameterizedStepValue:"<Key> xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" parameters:"Key" > > 
+30-10-2021 14:16:29.464 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:16:29.545 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:16:29.837 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:29.838 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:29.958 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:29.959 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.074 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.075 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.084 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.084 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.426 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.464 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.499 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.508 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.548 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.548 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.602 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.602 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.669 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:30.670 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 14:16:30.670 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 14:16:36.239 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:16:36.250 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:17:22.750 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:17:22.832 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:17:39.648 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 14:17:39.872 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 15:10:16.147 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\OzdilekMobil\specs
+30-10-2021 15:10:16.149 [Gauge] [DEBUG] Found 1 files
+30-10-2021 15:10:16.168 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-10-2021 15:10:16.191 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-10-2021 15:10:16.192 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 15:10:16.192 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-10-2021 15:10:16.192 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61626
+30-10-2021 15:10:55.840 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+30-10-2021 15:10:55.852 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+30-10-2021 15:10:55.857 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" > 
+30-10-2021 15:10:55.858 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" parameterizedStepValue:"<Key> xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" parameters:"Key" > > 
+30-10-2021 15:10:55.926 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+30-10-2021 15:10:55.926 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+30-10-2021 15:10:56.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+30-10-2021 15:10:56.398 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+30-10-2021 15:10:56.401 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+30-10-2021 15:10:56.404 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+30-10-2021 15:10:56.432 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+30-10-2021 15:10:56.439 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+30-10-2021 15:10:56.449 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+30-10-2021 15:10:56.450 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+30-10-2021 15:10:56.491 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+30-10-2021 15:10:56.494 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+30-10-2021 15:10:56.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+30-10-2021 15:10:56.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+30-10-2021 15:10:56.507 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+30-10-2021 15:10:56.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+30-10-2021 15:10:56.531 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+30-10-2021 15:10:56.542 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+30-10-2021 15:10:56.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+30-10-2021 15:10:56.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+30-10-2021 15:10:56.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+30-10-2021 15:10:56.546 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+30-10-2021 15:10:56.577 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Sayfa Scroll Edilir" > 
+30-10-2021 15:10:56.577 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfa Scroll Edilir" parameterizedStepValue:"Sayfa Scroll Edilir" > > 
+30-10-2021 15:10:56.792 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giris yapma sayfasinin acildigi kontrol edilir." > 
+30-10-2021 15:10:56.801 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > > 
+30-10-2021 15:10:56.917 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Secilen \303\274r\303\274n favorilere eklenir " > 
+30-10-2021 15:10:56.918 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n favorilere eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n favorilere eklenir" > > 
+30-10-2021 15:10:56.921 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici adi girilir." > 
+30-10-2021 15:10:56.922 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici adi girilir." parameterizedStepValue:"Kullanici adi girilir." > > 
+30-10-2021 15:10:56.946 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sifre girilir" > 
+30-10-2021 15:10:56.946 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sifre girilir" parameterizedStepValue:"Sifre girilir" > > 
+30-10-2021 15:10:56.971 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna 2 kez tiklanir" > 
+30-10-2021 15:10:56.984 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna 2 kez tiklanir" parameterizedStepValue:"geri butonuna 2 kez tiklanir" > > 
+30-10-2021 15:10:56.989 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna 2 kez tiklanir " > 
+30-10-2021 15:10:56.989 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna 2 kez tiklanir" parameterizedStepValue:"geri butonuna 2 kez tiklanir" > > 
+30-10-2021 15:10:57.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Secilen \303\274r\303\274n sepete eklenir" > 
+30-10-2021 15:10:57.024 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n sepete eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n sepete eklenir" > > 
+30-10-2021 15:10:57.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Secilen \303\274r\303\274n sepete eklenir " > 
+30-10-2021 15:10:57.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n sepete eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n sepete eklenir" > > 
+30-10-2021 15:11:02.556 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepetim butonuna tiklanir" > 
+30-10-2021 15:11:02.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepetim butonuna tiklanir" parameterizedStepValue:"Sepetim butonuna tiklanir" > > 
+30-10-2021 15:12:24.328 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 15:12:24.455 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 15:14:27.842 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\OzdilekMobil\specs
+30-10-2021 15:14:27.843 [Gauge] [DEBUG] Found 1 files
+30-10-2021 15:14:27.847 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-10-2021 15:14:27.854 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-10-2021 15:14:27.854 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\OzdilekMobil\specs\example.spec
+30-10-2021 15:14:27.854 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-10-2021 15:14:27.854 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61839
+30-10-2021 15:14:37.478 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" > 
+30-10-2021 15:14:37.478 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" parameterizedStepValue:"<Key> xpath'te bulunan sayfada g\303\266r\303\274nen t\303\274m \303\274r\303\274nleri bul ve rastgele bir \303\274r\303\274ne t\304\261kla" parameters:"Key" > > 
+30-10-2021 15:14:37.629 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Secilen \303\274r\303\274n favorilere eklenir " > 
+30-10-2021 15:14:37.630 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n favorilere eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n favorilere eklenir" > > 
+30-10-2021 15:14:37.685 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giris yapma sayfasinin acildigi kontrol edilir." > 
+30-10-2021 15:14:37.685 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giris yapma sayfasinin acildigi kontrol edilir." parameterizedStepValue:"Giris yapma sayfasinin acildigi kontrol edilir." > > 
+30-10-2021 15:14:37.884 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulamanin acildigi kontrol edilir." > 
+30-10-2021 15:14:37.884 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulamanin acildigi kontrol edilir." parameterizedStepValue:"Uygulamanin acildigi kontrol edilir." > > 
+30-10-2021 15:14:37.930 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisverise basla butonuna tiklanir" > 
+30-10-2021 15:14:37.930 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisverise basla butonuna tiklanir" parameterizedStepValue:"Alisverise basla butonuna tiklanir" > > 
+30-10-2021 15:14:37.972 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Alisveris sayfasinin acildigi dogrulanir." > 
+30-10-2021 15:14:37.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Alisveris sayfasinin acildigi dogrulanir." parameterizedStepValue:"Alisveris sayfasinin acildigi dogrulanir." > > 
+30-10-2021 15:14:37.983 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasi Acilir" > 
+30-10-2021 15:14:37.983 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasi Acilir" parameterizedStepValue:"Katagoriler Sayfasi Acilir" > > 
+30-10-2021 15:14:38.010 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagoriler Sayfasinin acildigi dogrulanir" > 
+30-10-2021 15:14:38.010 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagoriler Sayfasinin acildigi dogrulanir" parameterizedStepValue:"Katagoriler Sayfasinin acildigi dogrulanir" > > 
+30-10-2021 15:14:38.031 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Menuden 'Kad\304\261n' Secenegine tiklanir" > 
+30-10-2021 15:14:38.031 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" parameterizedStepValue:"Menuden 'Kad\304\261n' Secenegine tiklanir" > > 
+30-10-2021 15:14:38.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"'pantolon' kategorisi acilir" > 
+30-10-2021 15:14:38.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"'pantolon' kategorisi acilir" parameterizedStepValue:"'pantolon' kategorisi acilir" > > 
+30-10-2021 15:14:38.112 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Sayfa Scroll Edilir" > 
+30-10-2021 15:14:38.112 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfa Scroll Edilir" parameterizedStepValue:"Sayfa Scroll Edilir" > > 
+30-10-2021 15:14:38.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici adi girilir." > 
+30-10-2021 15:14:38.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici adi girilir." parameterizedStepValue:"Kullanici adi girilir." > > 
+30-10-2021 15:14:38.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sifre girilir" > 
+30-10-2021 15:14:38.141 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sifre girilir" parameterizedStepValue:"Sifre girilir" > > 
+30-10-2021 15:14:38.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna 2 kez tiklanir " > 
+30-10-2021 15:14:38.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna 2 kez tiklanir" parameterizedStepValue:"geri butonuna 2 kez tiklanir" > > 
+30-10-2021 15:14:38.166 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Secilen \303\274r\303\274n sepete eklenir " > 
+30-10-2021 15:14:38.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n sepete eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n sepete eklenir" > > 
+30-10-2021 15:14:38.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepetim butonuna tiklanir" > 
+30-10-2021 15:14:38.175 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepetim butonuna tiklanir" parameterizedStepValue:"Sepetim butonuna tiklanir" > > 
+30-10-2021 15:14:38.207 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"geri butonuna 2 kez tiklanir" > 
+30-10-2021 15:14:38.207 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"geri butonuna 2 kez tiklanir" parameterizedStepValue:"geri butonuna 2 kez tiklanir" > > 
+30-10-2021 15:14:38.208 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Secilen \303\274r\303\274n sepete eklenir" > 
+30-10-2021 15:14:38.208 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Secilen \303\274r\303\274n sepete eklenir" parameterizedStepValue:"Secilen \303\274r\303\274n sepete eklenir" > > 

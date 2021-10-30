@@ -1,0 +1,27 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 711milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 711"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 57340"}
+{"logLevel":"info","message":"Listening on port:57340"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.cliclAlisveris' and 'Base.StepImplementation.cliclAlisveris'"}
+{"logLevel":"debug","message":"Found Alisverise basla butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.checkAnaSayfa' and 'Base.StepImplementation.checkAnaSayfa'"}
+{"logLevel":"debug","message":"Found Uygulamanin acildigi kontrol edilir. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tAlisverise basla butonuna tiklanir : public void cliclAlisveris()"}
+{"logLevel":"debug","message":"\tUygulamanin acildigi kontrol edilir. : public void checkAnaSayfa()"}
+TEST BASLIYOR.....
+{"logLevel":"debug","message":"Executing 'Uygulamanin acildigi kontrol edilir.' using 'class Base.StepImplementation.checkAnaSayfa"}
+{"logLevel":"debug","message":"Executing 'Alisverise basla butonuna tiklanir' using 'class Base.StepImplementation.cliclAlisveris"}
+Elemente tiklandi
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

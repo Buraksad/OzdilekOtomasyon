@@ -1,0 +1,40 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 799milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 799"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 64303"}
+{"logLevel":"info","message":"Listening on port:64303"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickKadin' and 'Base.StepImplementation.clickKadin'"}
+{"logLevel":"debug","message":"Found Menuden 'Kadın' Secenegine tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickKatagoriler' and 'Base.StepImplementation.clickKatagoriler'"}
+{"logLevel":"debug","message":"Found Katagoriler Sayfasi Acilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.cliclAlisveris' and 'Base.StepImplementation.cliclAlisveris'"}
+{"logLevel":"debug","message":"Found Alisverise basla butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.checkAlisveris' and 'Base.StepImplementation.checkAlisveris'"}
+{"logLevel":"debug","message":"Found Alisveris sayfasinin acildigi dogrulanir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.clickPantolon' and 'Base.StepImplementation.clickPantolon'"}
+{"logLevel":"debug","message":"Found 'pantolon' kategorisi acilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.checkKatagoriler' and 'Base.StepImplementation.checkKatagoriler'"}
+{"logLevel":"debug","message":"Found Katagoriler Sayfasinin acildigi dogrulanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Base.StepImplementation.checkAnaSayfa' and 'Base.StepImplementation.checkAnaSayfa'"}
+{"logLevel":"debug","message":"Found Uygulamanin acildigi kontrol edilir. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tAlisverise basla butonuna tiklanir : public void cliclAlisveris() throws InterruptedException"}
+{"logLevel":"debug","message":"\tAlisveris sayfasinin acildigi dogrulanir. : public void checkAlisveris()"}
+{"logLevel":"debug","message":"\t'pantolon' kategorisi acilir : public void clickPantolon()"}
+{"logLevel":"debug","message":"\tUygulamanin acildigi kontrol edilir. : public void checkAnaSayfa()"}
+{"logLevel":"debug","message":"\tKatagoriler Sayfasinin acildigi dogrulanir : public void checkKatagoriler()"}
+{"logLevel":"debug","message":"\tMenuden 'Kadın' Secenegine tiklanir : public void clickKadin()"}
+{"logLevel":"debug","message":"\tKatagoriler Sayfasi Acilir : public void clickKatagoriler()"}
+TEST BASLIYOR.....
+{"logLevel":"debug","message":"Executing 'Uygulamanin acildigi kontrol edilir.' using 'class Base.StepImplementation.checkAnaSayfa"}
+{"logLevel":"debug","message":"Executing 'Alisverise basla butonuna tiklanir' using 'class Base.StepImplementation.cliclAlisveris"}
+Elemente tiklandi
+2saniye beklenildi.
+{"logLevel":"debug","message":"Executing 'Alisveris sayfasinin acildigi dogrulanir.' using 'class Base.StepImplementation.checkAlisveris"}
